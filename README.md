@@ -1,0 +1,1 @@
+# Human-Activity-Recognition-through-GRU-based-LRCN-and-2-MoviNets-Transfer-Learning
